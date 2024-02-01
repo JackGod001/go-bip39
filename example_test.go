@@ -3,7 +3,8 @@ package bip39_test
 import (
 	"encoding/hex"
 	"fmt"
-	bip39 "go-bip39"
+
+	"github.com/JackGod001/go-bip39"
 )
 
 func ExampleNewMnemonic() {
