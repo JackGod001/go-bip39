@@ -16,7 +16,7 @@ package main
 
 import (
   "fmt"
-  "github.com/tyler-smith/go-bip39"
+  "github.com/JackGod001/go-bip39"
   "github.com/tyler-smith/go-bip32"
 )
 
