@@ -1,3 +1,5 @@
+github.com/JackGod001/go-bip39 v0.0.0-20240201120214-1ca7587d9efa h1:wcfbR2fKwy5rWoZngnOezld0suGw9z2GvZ7t0zBI+Ts=
+github.com/JackGod001/go-bip39 v0.0.0-20240201120214-1ca7587d9efa/go.mod h1:acCVimQpQ4DLETK7graGBRoWB6IIcU6ZmP5vPalKETk=
 github.com/tyler-smith/assert v1.0.1 h1:AymyVNGyHOAVaDUEo0WouAMB/wwi5NdbJTDb7lsfFGk=
 github.com/tyler-smith/assert v1.0.1/go.mod h1:oPc3QyIN2k0t/9Xp0sNhi3suiWuGXzIcdf/dbKQ6QGk=
 github.com/tyler-smith/go-bip39 v1.1.0 h1:5eUemwrMargf3BSLRRCalXT93Ns6pQJIjYQN2nyfOP8=
